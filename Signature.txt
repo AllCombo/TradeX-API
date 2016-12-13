@@ -1,0 +1,21 @@
+
+from setuptools import setup, find_packages
+
+setup(
+    name = "TradeX-Python27-API",
+    version = "1.0",
+    packages = find_packages(),
+
+    description = "TradeX (Python2.7) API for Stock trade",
+    long_description = "TradeX (Python2.7) API for Stock trade",
+    author = "HC Inc.",
+    author_email = "newgu8@163.com",
+
+    license = "MIT",
+    keywords = ("TradeX", "Python" "Stock"),
+    platforms = "Win32",
+    url = "https://github.com/huichou/tradex-api
+
+" class='replace_word' title="TradeX-Python27-API" target='_blank' style='color:#df3434; font-weight:bold;'>.NET</a>/hong201/", 
+	
+)
